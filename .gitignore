@@ -1,0 +1,32 @@
+
+# Node
+node_modules/
+npm-debug.log
+.env
+.env.*
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+*.key.json
+credentials.json
+secret.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
